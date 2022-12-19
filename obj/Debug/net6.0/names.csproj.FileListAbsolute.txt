@@ -1,0 +1,15 @@
+C:\Users\24beard6309\source\repos\names\names\bin\Debug\net6.0\names.exe
+C:\Users\24beard6309\source\repos\names\names\bin\Debug\net6.0\names.deps.json
+C:\Users\24beard6309\source\repos\names\names\bin\Debug\net6.0\names.runtimeconfig.json
+C:\Users\24beard6309\source\repos\names\names\bin\Debug\net6.0\names.dll
+C:\Users\24beard6309\source\repos\names\names\bin\Debug\net6.0\names.pdb
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\names.csproj.AssemblyReference.cache
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\names.AssemblyInfoInputs.cache
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\names.AssemblyInfo.cs
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\names.csproj.CoreCompileInputs.cache
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\names.dll
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\refint\names.dll
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\names.pdb
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\names.genruntimeconfig.cache
+C:\Users\24beard6309\source\repos\names\names\obj\Debug\net6.0\ref\names.dll
